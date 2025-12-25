@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sjdia" alt="sjdia's 42 stats" /></a>
+[![sjdia's 42 stats](https://badge.mediaplus.ma/greenbinary/sjdia)](https://github.com/oakoudad/badge42)
 
 Here are some ideas to get you started:
 
